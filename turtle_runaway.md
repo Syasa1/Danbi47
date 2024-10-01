@@ -1,6 +1,6 @@
 Turtle Runaway is a game where the player chases after another turtle.
 
-in this program, the player can set the timer and play the game.
+In this program, the player can set the timer and play the game.
 ![1](https://github.com/user-attachments/assets/3f9dfbf8-4c4b-437a-b5e6-cfbffd9e78db)
 
 The blue turtle (player) chases after the yellow turtle. 
